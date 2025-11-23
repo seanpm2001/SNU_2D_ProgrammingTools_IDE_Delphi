@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Delphi source file
+*.dfm linguist-detectable=true
+*.dfm linguist-documentation=false
+*.dfm linguist-language=Delphi
+*.pas linguist-detectable=true
+*.pas linguist-documentation=false
+*.pas linguist-language=Delphi
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -167,7 +174,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Thursday, August 22nd at 03:15 pm PST)
-# Line count (including blank lines and compiler line): 174
+# File version: 5 (2025, Saturday, November 22nd at 07:05 pm PST)
+# Line count (including blank lines and compiler line): 181
 
 # End of script
